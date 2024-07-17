@@ -82,7 +82,7 @@
             "email": "dev@gssp.io",
             "emailAltText": "My email address",
             "address": "San Francisco, CA",
-            "addressAltText": "My address"
+            "addressAltText": "Where I reside"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
         "styles": {
