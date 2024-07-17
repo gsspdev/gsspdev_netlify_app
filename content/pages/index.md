@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: i'm an artist and developer
+    title: I'm an artist and developer
     subtitle: ''
     styles:
       self:
