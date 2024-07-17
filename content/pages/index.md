@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: I'm an artist and developer
-    subtitle: ''
+    subtitle: I make unique creatively and technically exploratory works
     styles:
       self:
         height: auto
