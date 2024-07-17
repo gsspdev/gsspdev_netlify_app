@@ -14,7 +14,7 @@
     "h1": {
         "size": "6xl",
         "weight": "medium",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "uppercase",
         "letterSpacing": "normal"
     },
