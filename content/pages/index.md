@@ -38,15 +38,13 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      \<div style="text-align: center">### I thought I'd have some more to say
-      here, but I'm not super inspired right now.\</div>
+      #### I thought I'd have some more to say here, but I'm not super inspired
+      right now
 
+      #### We'll see were things take me
 
-      \<div style="text-align: center">### We'll see were things take me\</div>
-
-
-      *   \<div style="text-align: center">#### Currently interested in
-      processing digital signals and machine learning\</div>
+      #### Currently interested in processing digital signals and machine
+      learning\</div>
 
   - colors: colors-f
     type: FeaturedProjectsSection
