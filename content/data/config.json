@@ -76,7 +76,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "Contact Info",
             "phoneNumber": "‪(323) 205-6473‬",
             "phoneAltText": "My phone number",
             "email": "dev@gssp.io",
