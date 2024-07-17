@@ -16,7 +16,7 @@
         "weight": "medium",
         "decoration": "underline",
         "case": "uppercase",
-        "letterSpacing": "wide"
+        "letterSpacing": "wider"
     },
     "h2": {
         "size": "5xl",
