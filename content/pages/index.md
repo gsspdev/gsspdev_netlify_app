@@ -4,7 +4,7 @@ title: Home
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/post-4.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
