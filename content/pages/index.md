@@ -42,6 +42,13 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >-
+      # I thought I'd have some more to say here, but I'm not super inspired
+      right now. 
+
+      # We'll see were things take me 
+
+      # Currently interested in processing digital signals and machine learning
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
