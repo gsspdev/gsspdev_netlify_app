@@ -78,7 +78,7 @@
             "type": "ContactBlock",
             "title": "Contact Info",
             "phoneNumber": "‪(323) 205-6473‬",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "Business phone number",
             "email": "dev@gssp.io",
             "emailAltText": "My email address",
             "address": "San Francisco, CA",
