@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-a
     backgroundSize: full
     title: I'm an artist and developer
     subtitle: I make unique creatively and technically exploratory works
