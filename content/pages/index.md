@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-d
     backgroundSize: full
     title: I'm an artist and developer
     subtitle: I make unique creatively and technically exploratory works
