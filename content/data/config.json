@@ -81,7 +81,7 @@
             "phoneAltText": "My phone number",
             "email": "dev@gssp.io",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "San Francisco, CA",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
