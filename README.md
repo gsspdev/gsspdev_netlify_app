@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d5e449de-c99f-478d-9307-1916f891647d/deploy-status)](https://app.netlify.com/sites/gsspdev/deploys)
+
 # Netlify Developer Portfolio Starter (auto-annotated)
 
 ![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
