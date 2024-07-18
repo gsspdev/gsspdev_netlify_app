@@ -42,7 +42,7 @@ sections:
       right now
 
 
-      #### We'll see ware things take me
+      #### We'll c wear things take me
 
 
       #### Currently interested in processing digital signals and machine
