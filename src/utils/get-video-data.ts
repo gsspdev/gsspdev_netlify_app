@@ -12,12 +12,6 @@ export default function getVideoData(videoUrl: string) {
             id: getYoutubeId(videoUrl),
             service: 'youtube'
         };
-    } else if (/vimeo/.test(videoUrl)) {
-        videoUrl = videoUrl.replace('/www.', '/');
-        videoData = {
-            id: getVimeoId(videoUrl),
-            service: 'vimeo'
-        };
     } else if (/\.mp4/.test(videoUrl)) {
         videoData = {
             id: videoUrl,
@@ -25,54 +19,6 @@ export default function getVideoData(videoUrl: string) {
         };
     }
     return videoData;
-}
-
-function getVimeoId(vimeoStr) {
-    let str = vimeoStr;
-
-    if (str.includes('#')) {
-        [str] = str.split('#');
-    }
-
-    if (str.includes('?') && !str.includes('clip_id=')) {
-        [str] = str.split('?');
-    }
-
-    let id;
-    let array;
-
-    const event = /https?:\/\/vimeo\.com\/event\/(\d+)$/;
-
-    const eventMatches = event.exec(str);
-
-    if (eventMatches && eventMatches[1]) {
-        return eventMatches[1];
-    }
-
-    const primary = /https?:\/\/vimeo\.com\/(\d+)/;
-
-    const matches = primary.exec(str);
-    if (matches && matches[1]) {
-        return matches[1];
-    }
-
-    const vimeoPipe = ['https?://player.vimeo.com/video/[0-9]+$', 'https?://vimeo.com/channels', 'groups', 'album'].join('|');
-
-    const vimeoRegex = new RegExp(vimeoPipe, 'gim');
-
-    if (vimeoRegex.test(str)) {
-        array = str.split('/');
-        if (array && array.length > 0) {
-            id = array.pop();
-        }
-    } else if (/clip_id=/gim.test(str)) {
-        array = str.split('clip_id=');
-        if (array && array.length > 0) {
-            [id] = array[1].split('&');
-        }
-    }
-
-    return id;
 }
 
 function getYoutubeId(youtubeStr) {
