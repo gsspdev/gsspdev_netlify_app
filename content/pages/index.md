@@ -6,8 +6,8 @@ sections:
   - elementId: ''
     colors: colors-d
     backgroundSize: full
-    title: I'm an artist and developer
-    subtitle: I make unique creatively and technically exploratory works
+    title: 'I''m gssp. I''m an artist, engineer, and founder'
+    subtitle: I needlessly over-engineer creative pursuits.
     styles:
       self:
         height: auto
@@ -37,16 +37,33 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >-
-      #### I thought I'd have some more to say here, but I'm not super inspired
-      right now
+    text: >
+      I'm currently best known for being one of the founders of e/acc, the
+      techno-optimist movement that has captured Silicon Valley. You can read a
+      little about this here:
+      [https://www.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers.](https://www.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers)
 
 
-      #### We'll see were things take me
+      My background is in music, film, and technology. I've worked production
+      for studios such as Fox, NBC, Universal, and Apple Studios. I have a
+      decade of experience as an electronic music production and professional DJ
+      under an alias. I've written software as a professional over the last few
+      years (Rust/Python) and as a hobbyist for over a decade (C++, C, Swift,
+      Objective-C, others).
 
 
-      #### Currently interested in processing digital signals and machine
-      learning
+      I'm currently improving audio pre-processing for machine learning. I
+      believe the results of this research will improve audio classification
+      algorithms by an order of magnitude. I'm seeking venture capitalist
+      partners to help build this at scale also. In other words:
+
+
+      IF YOU ARE A VENTURE CAPITALIST LOOKING FOR A BILLION DOLLAR MOONSHOT IDEA
+      LET'S TALK.
+
+
+      My contact info is at the bottom of the page. I'm highly active on twitter
+      too: @gssp\_acc.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
