@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-d
     backgroundSize: full
-    title: I'm an artist and developer
+    title: 'artist, writer, developer'
     subtitle: I make unique creatively and technically exploratory works
     styles:
       self:
