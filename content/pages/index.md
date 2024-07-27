@@ -41,7 +41,7 @@ sections:
       I'm currently best known for being one of the founders of e/acc, the
       techno-optimist movement that has captured Silicon Valley. You can read a
       little about this here:
-      <https://www.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers>
+      [https://www.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers.](https://www.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers)
 
 
       My background is in music, film, and technology. I've worked production
@@ -59,11 +59,11 @@ sections:
 
 
       IF YOU ARE A VENTURE CAPITALIST LOOKING FOR A BILLION DOLLAR MOONSHOT IDEA
-      LET'S TALK
+      LET'S TALK.
 
 
       My contact info is at the bottom of the page. I'm highly active on twitter
-      too: @gssp\_acc
+      too: @gssp\_acc.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
