@@ -38,32 +38,32 @@ sections:
     type: HeroSection
     actions: []
     text: >
-      I'm currently best known for being one of the people who started e/acc, a
-      techno-optimist accelerationist movement that proliferated Twitter, and
-      has captured Silicon Valley. You can read about that here:
-      https\://www\.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers
+      I'm currently best known for being one of the founders of e/acc, the
+      techno-optimist movement that has captured Silicon Valley. You can read a
+      little about this here:
+      <https://www.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers>
 
 
-      My professional background has been in the film, music, and technology
-      industry. I am a member of IATSE 476 and have worked on 8 television
-      productions for studios such as Fox, NBC, Universal, and Apple. I have
-      over a decade of experience in electronic music production and DJ
-      professionally under an alias. I have worked as both a designer and
-      developer for several start-ups.
+      My background is in music, film, and technology. I've worked production
+      for studios such as Fox, NBC, Universal, and Apple Studios. I have a
+      decade of experience as an electronic music production and professional DJ
+      under an alias. I've written software as a professional over the last few
+      years (Rust/Python) and as a hobbyist for over a decade (C++, C, Swift,
+      Objective-C, others).
 
 
-      My current obsession is improving audio for machine learning. Currently I
-      am focused on pre-training optimizations, which I think is currently
-      handled poorly, and which I believe I can vastly improve. I plan to raise
-      venture capital for this ends. To that end:
+      I'm currently improving audio pre-processing for machine learning. I
+      believe the results of this research will improve audio classification
+      algorithms by an order of magnitude. I'm seeking venture capitalist
+      partners to help build this at scale also. In other words:
 
 
       IF YOU ARE A VENTURE CAPITALIST LOOKING FOR A BILLION DOLLAR MOONSHOT IDEA
       LET'S TALK
 
 
-      My contact info is listed at the bottom of this page. I'm highly active on
-      twitter too: @gssp\_acc
+      My contact info is at the bottom of the page. I'm highly active on twitter
+      too: @gssp\_acc
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
