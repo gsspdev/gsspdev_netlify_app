@@ -37,17 +37,33 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
-      #### I thought I'd have some more to say here, but I'm not super inspired
-      right now
+    text: >
+      I'm currently best known for being one of the people who started e/acc, a
+      techno-optimist accelerationist movement that proliferated Twitter, and
+      has captured Silicon Valley. You can read about that here:
+      https\://www\.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers
 
 
-      #### We'll c wear things take me
+      My professional background has been in the film, music, and technology
+      industry. I am a member of IATSE 476 and have worked on 8 television
+      productions for studios such as Fox, NBC, Universal, and Apple. I have
+      over a decade of experience in electronic music production and DJ
+      professionally under an alias. I have worked as both a designer and
+      developer for several start-ups.
 
 
-      #### Currently interested in processing digital signals and machine
-      learning
+      My current obsession is improving audio for machine learning. Currently I
+      am focused on pre-training optimizations, which I think is currently
+      handled poorly, and which I believe I can vastly improve. I plan to raise
+      venture capital for this ends. To that end:
 
+
+      IF YOU ARE A VENTURE CAPITALIST LOOKING FOR A BILLION DOLLAR MOONSHOT IDEA
+      LET'S TALK
+
+
+      My contact info is listed at the bottom of this page. I'm highly active on
+      twitter too: @gssp\_acc
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
