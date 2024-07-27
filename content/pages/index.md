@@ -7,7 +7,7 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: Hi I'm gssp. I'm an artist & engineer
-    subtitle: I needless over-engineer creative pursuits. This is where I share that.
+    subtitle: I needless over-engineer creative pursuits.
     styles:
       self:
         height: auto
