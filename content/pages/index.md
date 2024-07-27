@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-d
     backgroundSize: full
-    title: 'artist, writer, developer'
+    title: Hi I'm gssp. I'm an artist & engineer
     subtitle: Applying needless over-engineering to creative endeavors
     styles:
       self:
