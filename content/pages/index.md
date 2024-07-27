@@ -7,7 +7,7 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: 'artist, writer, developer'
-    subtitle: I make unique creatively and technically exploratory works
+    subtitle: Applying needless over-engineering to creative endeavors
     styles:
       self:
         height: auto
