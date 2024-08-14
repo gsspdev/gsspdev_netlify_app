@@ -15,6 +15,6 @@ media:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: Project image
-metaTitle: Quantum
+metaTitle: 'Quantum '
 ---
 I led a team of leading physicists and the pop musician Grimes to push the boundaries of quantum physics
