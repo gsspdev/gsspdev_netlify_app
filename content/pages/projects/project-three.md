@@ -9,6 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/eacc_logo 2.jpg
   altText: e/acc logo
+  caption: Effective Accelerationism
 media:
   type: ImageBlock
   url: /images/bg3.jpg
