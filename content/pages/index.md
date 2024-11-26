@@ -101,7 +101,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: ...and things I've abandoned
     title: Things I've Built
   - type: FeaturedPostsSection
     elementId: ''
