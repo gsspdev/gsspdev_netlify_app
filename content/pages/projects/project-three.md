@@ -4,7 +4,7 @@ title: e/ac
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: I founded and brought a techno-optimist movement to the mainstream
+description: The techo-optimist movement I brought to the mainstream
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
