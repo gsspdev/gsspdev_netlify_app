@@ -16,6 +16,7 @@ media:
   altText: Project image
 metaTitle: effective accelerationism
 metaDescription: effective accelerationism
+socialImage: /images/eacc_logo 2.jpg
 ---
 I intend to write a new piece about e/acc, my role in it, and where I think it needs to head. A serious topic worthy of nuance and reflection. 
 
