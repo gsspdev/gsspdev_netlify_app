@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Quantum_Music_Grimes_Project.jpeg
-  altText: Project thumbnail image
+  altText: Quantum Music Grimes Project
 media:
   type: ImageBlock
   url: /images/bg2.jpg
