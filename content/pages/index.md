@@ -102,6 +102,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+    title: Things I've Built and Worked On
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
