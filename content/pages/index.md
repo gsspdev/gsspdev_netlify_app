@@ -4,7 +4,7 @@ title: Home
 colors: colors-d
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-c
     backgroundSize: full
     title: 'I''m gssp. I''m an artist, engineer, and founder'
     subtitle: I needlessly over-engineer creative pursuits.
@@ -101,7 +101,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: ...and works I've abandoned
+    title: Things I've Built
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f

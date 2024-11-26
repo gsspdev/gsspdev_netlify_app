@@ -9,11 +9,14 @@ description: >-
   boundaries of quantum physics
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
+  url: /images/Quantum_Music_Grimes_Project.jpeg
+  altText: Quantum Music Grimes Project
+  caption: The project to put pop music into a  quantum superposition
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
+  url: /images/Quantum_Music_Grimes_Project.jpeg
+  altText: Quantum Music Grimes Project
+  caption: The project to put pop music into a  quantum superposition
+metaTitle: 'Quantum '
 ---
 I led a team of leading physicists and the pop musician Grimes to push the boundaries of quantum physics
