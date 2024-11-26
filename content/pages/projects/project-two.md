@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Quantum_Music_Grimes_Project.jpeg
-  altText: Project image
+  altText: Quantum Music Grimes Project
   caption: The project to put pop music into a  quantum superposition
 metaTitle: 'Quantum '
 ---
