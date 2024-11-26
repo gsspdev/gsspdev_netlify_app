@@ -16,6 +16,7 @@ media:
   type: ImageBlock
   url: /images/Quantum_Music_Grimes_Project.jpeg
   altText: Project image
+  caption: The project to put pop music into a  quantum superposition
 metaTitle: 'Quantum '
 ---
 I led a team of leading physicists and the pop musician Grimes to push the boundaries of quantum physics
