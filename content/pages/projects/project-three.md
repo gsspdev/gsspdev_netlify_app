@@ -7,7 +7,7 @@ client: Awesome client
 description: The techo-optimist movement I brought to the mainstream
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/eacc_logo 2.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
