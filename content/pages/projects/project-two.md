@@ -9,7 +9,7 @@ description: >-
   boundaries of quantum physics
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Quantum_Music_Grimes_Project.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
