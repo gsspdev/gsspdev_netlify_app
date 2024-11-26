@@ -14,6 +14,7 @@ media:
   type: ImageBlock
   url: /images/bg3.jpg
   altText: Project image
+metaTitle: e/acc
 ---
 I intend to write a new piece about e/acc, my role in it, and where I think it needs to head. A serious topic worthy of nuance and reflection. 
 
