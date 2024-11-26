@@ -12,7 +12,7 @@ featuredImage:
   caption: Effective Accelerationism
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/eacc_logo 2.jpg
   altText: Project image
 metaTitle: effective accelerationism
 metaDescription: effective accelerationism
