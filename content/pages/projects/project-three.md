@@ -14,6 +14,9 @@ media:
   url: /images/bg3.jpg
   altText: Project image
 ---
-I would like to write a longer piece about e/acc, my role in it, and where I think it needs to head. For now, this article from the New Yorker will have to suffice. It's quite a long article that also covers some other Bay Area technology movements, so search for "e/acc" or my name "Benjamin Hampikian" if you'd just like to read the section concerning e/acc and my involvement in it's creation:
+I intend to write a new piece about e/acc, my role in it, and where I think it needs to head. A serious topic worthy of nuance and reflection. 
 
-\=
+
+For now, this article from the New Yorker will have to suffice. It's quite a long article which covers some of the other Bay Area technology movements, so search for "e/acc" or my name, "Benjamin Hampikian" if you'd just like to read the section concerning e/acc:
+
+https\://www\.newyorker.com/magazine/2024/03/18/among-the-ai-doomsayers
