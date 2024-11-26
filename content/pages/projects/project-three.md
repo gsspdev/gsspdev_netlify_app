@@ -3,7 +3,7 @@ type: ProjectLayout
 title: e/acc
 colors: colors-a
 date: '2022-01-22'
-client: Awesome clientadsfad
+client: Awesome client
 description: The techo-optimist movement I brought to the mainstream
 featuredImage:
   type: ImageBlock
