@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Founding e/acc
+title: e/ac
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
